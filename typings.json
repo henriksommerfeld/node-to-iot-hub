@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "body-parser": "registry:npm/body-parser#1.15.2+20160815132839",
+    "chokidar": "registry:npm/chokidar#1.6.0+20160817083815",
+    "express": "registry:npm/express#4.14.0+20160815112707",
+    "mime": "registry:npm/mime#1.3.0+20160723033700",
+    "serve-static": "registry:npm/serve-static#1.11.1+20160810053450",
+    "yargs": "registry:npm/yargs#5.0.0+20160907000723"
+  },
+  "globalDependencies": {
+    "body-parser": "registry:dt/body-parser#0.0.0+20160619023215",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#4.0.0+20160829034835",
+    "gulp-nodemon": "registry:dt/gulp-nodemon#0.0.0+20160316155526",
+    "jasmine": "registry:dt/jasmine#2.2.0+20160621224255",
+    "node": "registry:dt/node#6.0.0+20160909174046"
+  }
+}
