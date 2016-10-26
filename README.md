@@ -1,4 +1,4 @@
-# Recieving environmental data and pushing it to Azure IoT Hub 
+# Receiving environmental data and pushing it to Azure IoT Hub 
 
 This is a Node app in TypeScript that takes environmental data through HTTP POST and sends it to Azure IoT Hub. I also stores the *latest* (not aggregated) data on the local file system, this can easily be disabled.
 
