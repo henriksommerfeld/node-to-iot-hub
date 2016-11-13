@@ -2,7 +2,9 @@
 
 This is a Node app in TypeScript that takes environmental data through HTTP POST and sends it to Azure IoT Hub. I also stores the *latest* (not aggregated) data on the local file system, this can easily be disabled.
 
-It's build for a project where it runs on a RaspberryPi and recieves the data from another local service, so there is no authentication going on here.
+It's build for a project where it runs on a RaspberryPi and recieves the data from another local service, so there is no authentication going on here. 
+
+This code is part of a project described here: [http://henrik.sommerfeld.nu/my-iot-exploration-part-3-sending-data-to-cloud/](http://henrik.sommerfeld.nu/my-iot-exploration-part-3-sending-data-to-cloud/)
 
 ## Installation
 
